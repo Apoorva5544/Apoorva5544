@@ -57,7 +57,7 @@ Awarded for developing an **Underwater Inspection Robot** with real-time defect 
 
 ### 🔭 Current Work
 - Developing **FastAPI + Docker microservices** for geo-spatial data management.  
-- Building secure, cloud-integrated APIs using **AWS Lambda** and **Aurora Serverless**.  
+- Building secure, cloud-integrated APIs using **AWS Lambda** and **API Gateway**.  
 - Automating backend and data workflows through **n8n** integrations.  
 - Exploring **event-driven systems** and **distributed backend design**.
 
