@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Apoorva Srinivasan</h1>
-<h3 align="center">Software Engineer Intern @ SpatialGuide | Backend Developer | Cloud & Automation Engineer</h3>
+<h3 align="center">SWE Intern @ SpatialGuide | Backend Developer | Cloud & Automation Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/apoorva-srinivasan-bba609258">
