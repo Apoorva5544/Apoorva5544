@@ -17,11 +17,19 @@
 
 ### 👩‍💻 About Me
 
-I’m a **Software Engineer Intern at SpatialGuide**, currently working on backend systems and microservices built with **FastAPI**, **Docker**, and **AWS**.  
-My work focuses on designing reliable APIs, improving backend efficiency, and building automation workflows that reduce operational overhead.
+I’m a **Software Engineer Intern at SpatialGuide**, focused on backend systems, API development, and cloud automation using **FastAPI**, **Docker**, and **AWS**.  
+My interests include system design, distributed backend architecture, and workflow automation for modern software ecosystems.
 
 🏆 **Winner — Techgium 8th Edition (L&T Technology Services)**  
 Awarded for developing an **Underwater Inspection Robot** with real-time defect detection and autonomous navigation for industrial applications.
+
+---
+
+### 🧩 Problem Solving & Coding
+
+I actively practice data structures and algorithms to refine my coding logic and problem-solving ability.  
+**Solved over 247 problems** on LeetCode across multiple domains.  
+🔗 [View My LeetCode Profile](https://leetcode.com/u/apoorva2210005/)
 
 ---
 
@@ -30,20 +38,20 @@ Awarded for developing an **Underwater Inspection Robot** with real-time defect 
 #### Backend & API Development
 - RESTful services using **FastAPI**, **Flask**, and **Django**  
 - Containerized microservices with **Docker**  
-- Authentication, routing, async tasks, and ORM-based persistence  
-- Salesforce integration and community website development  
+- Authentication, routing, async processing, ORM-based persistence  
+- Salesforce community website development and API integrations  
 
 #### Cloud & Infrastructure
 - **AWS:** EC2, S3, RDS, DynamoDB, Lambda, Aurora Serverless, Route53,  
   API Gateway, CloudFront, IAM, CloudWatch, Step Functions, SNS, SES, VPC  
-- Serverless architecture, monitoring, and CI/CD pipelines  
-- Basic familiarity with **Terraform** for IaC  
+- Deployment automation, serverless design, and CI/CD pipelines  
+- Exploring **Terraform** for Infrastructure as Code  
 
 #### Programming & Tools
 - **Languages:** Python, Java, C  
 - **Version Control:** Git, GitHub, GitHub Actions  
 - **Automation:** Built 15+ production workflows using **n8n**  
-- **Mobile Development:** Android Studio  
+- **App Development:** Android Studio  
 
 #### Databases
 - **Relational:** MySQL, PostgreSQL  
@@ -51,15 +59,15 @@ Awarded for developing an **Underwater Inspection Robot** with real-time defect 
 
 #### Frontend & Design
 - **Tailwind CSS** for responsive UI prototyping  
-- **Figma** for wireframing and UI/UX design  
+- **Figma** for wireframing and design systems  
 
 ---
 
 ### 🔭 Current Work
 - Developing **FastAPI + Docker microservices** for geo-spatial data management.  
-- Building secure, cloud-integrated APIs using **AWS Lambda** and **API Gateway**.  
-- Automating backend and data workflows through **n8n** integrations.  
-- Exploring **event-driven systems** and **distributed backend design**.
+- Building secure, cloud-integrated APIs with **AWS Lambda** and **API Gateway**.  
+- Creating automation pipelines with **n8n** and REST API integrations.  
+- Studying **event-driven systems** and **distributed backend patterns**.
 
 ---
 
