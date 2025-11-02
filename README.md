@@ -15,17 +15,17 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 I’m a **Software Engineer Intern at SpatialGuide**, focused on backend systems, API development, and cloud automation using **FastAPI**, **Docker**, and **AWS**.  
 My interests include system design, distributed backend architecture, and workflow automation for modern software ecosystems.
 
-🏆 **Winner — Techgium 8th Edition (L&T Technology Services)**  
+ **Winner — Techgium 8th Edition (L&T Technology Services)**  
 Awarded for developing an **Underwater Inspection Robot** with real-time defect detection and autonomous navigation for industrial applications.
 
 ---
 
-### 🧩 Problem Solving & Coding
+###  Problem Solving & Coding
 
 I actively practice data structures and algorithms to refine my coding logic and problem-solving ability.  
 **Solved over 247 problems** on LeetCode across multiple domains.  
@@ -33,7 +33,7 @@ I actively practice data structures and algorithms to refine my coding logic and
 
 ---
 
-### 🧠 Technical Skills
+###  Technical Skills
 
 #### Backend & API Development
 - RESTful services using **FastAPI**, **Flask**, and **Django**  
@@ -63,7 +63,7 @@ I actively practice data structures and algorithms to refine my coding logic and
 
 ---
 
-### 🔭 Current Work
+###  Current Work
 - Developing **FastAPI + Docker microservices** for geo-spatial data management.  
 - Building secure, cloud-integrated APIs with **AWS Lambda** and **API Gateway**.  
 - Creating automation pipelines with **n8n** and REST API integrations.  
@@ -71,7 +71,7 @@ I actively practice data structures and algorithms to refine my coding logic and
 
 ---
 
-### 📊 GitHub Overview
+###  GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apoorva5544&show_icons=true&theme=default" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorva5544&theme=default" height="160" />
@@ -79,12 +79,12 @@ I actively practice data structures and algorithms to refine my coding logic and
 
 ---
 
-### 📄 Resume
+###  Resume
 [View My Resume](./Apoorva%20resume.pdf)
 
 ---
 
-### 📬 Contact
+###  Contact
 📧 **Email:** apoorvasrinivasan59@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/apoorva-srinivasan-bba609258](https://linkedin.com/in/apoorva-srinivasan-bba609258)  
 💻 **GitHub:** [github.com/Apoorva5544](https://github.com/Apoorva5544)
