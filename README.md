@@ -20,7 +20,7 @@
 I’m a **Software Engineer Intern at SpatialGuide**, focused on backend systems, API development, and cloud automation using **FastAPI**, **Docker**, and **AWS**.  
 My interests include system design, distributed backend architecture, and workflow automation for modern software ecosystems.
 
- **Winner — Techgium 8th Edition (L&T Technology Services)**  
+ **Winner Techgium 8th Edition (L&T Technology Services)**  
 Awarded for developing an **Underwater Inspection Robot** with real-time defect detection and autonomous navigation for industrial applications.
 
 ---
